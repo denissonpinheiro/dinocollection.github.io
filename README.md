@@ -1,1 +1,1 @@
-# dinocollection.github.io
+# http://dinocollection.github.io
